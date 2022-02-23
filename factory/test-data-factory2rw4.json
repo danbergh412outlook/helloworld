@@ -1,0 +1,9 @@
+{
+	"name": "test-data-factory2rw4",
+	"location": "northcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9feeca2d-b21e-4d82-a9c7-df3a089a2d87",
+		"tenantId": "621a0f6f-db33-4f41-bbab-685cfeb1d975"
+	}
+}
