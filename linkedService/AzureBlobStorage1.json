@@ -4,14 +4,8 @@
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
-			"connectionString": {
-				"type": "AzureKeyVaultSecret",
-				"store": {
-					"referenceName": "AzureKeyVault1",
-					"type": "LinkedServiceReference"
-				},
-				"secretName": "storage"
-			}
+			"serviceEndpoint": "https://storageaccounttestra6d1.blob.core.windows.net",
+			"accountKind": "Storage"
 		}
 	}
 }
